@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Editor Stylify
-Plugin URI: 
+Plugin URI: https://github.com/renegade47/wp-editor-stylify
 Description: This plugin adds a custom editor stylesheet for the WordPress Editor
 Author: Leo Ruther Valles
 Version: 1
