@@ -19,4 +19,4 @@ https://utopian.io/utopian-io/@vallesleoruther/designing-the-renegade-wp-forms-l
 
 ## License
 
-This project is licensed under the Unlicense see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Unlicense see the [LICENSE.md](LICENSE) file for details
